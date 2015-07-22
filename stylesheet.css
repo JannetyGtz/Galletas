@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+}
+
+
+h1{
+	text-align:center;
+	background:Pink;
+	font-family:cursive;
+}
+
+.img{
+	text-align: center;
+	background-color:#FFF8DC;
+}
+
+#navbar ul{
+   list-style-type: none;
+   text-align: center;
+   background-color:#99FFFF;
+}
+
+#navbar li{
+   display: inline;
+   text-align: center;
+   margin: 0 10px 0 0;
+   font-family: cursive;
+}
+h2{
+	background-color:#99FFFF;
+	font-family: cursive;
+	text-align: center;
+
+}
+p
+{
+	font-size:18px;
+	padding:15px;
+	color:purple;
+	font-family:Verdana;
+	
+}
+
+.alinear{
+	width: 350px;
+	height: 250px;
+}
+
+.tabla{
+	border:1px solid black;
+	border-collapse:collapse;
+	margin: 10px;
+}
+
+th{
+	
+	border: 1px solid #000;
+}
+tr{
+	border-collapse:collapse;
+	
+}
